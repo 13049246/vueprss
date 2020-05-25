@@ -1,0 +1,21 @@
+{
+  "name": "vueprss",
+  "version": "1.0.0",
+  "description": "vuepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangjianghai174/vueprss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangjianghai174/vueprss/issues"
+  },
+  "homepage": "https://github.com/huangjianghai174/vueprss#readme"
+}
